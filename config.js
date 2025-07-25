@@ -305,7 +305,7 @@ var config = {
             id: 'twelfth-chapter',
             alignment: 'center',
             hidden: false,
-            description: '<stronge> Si has volado a esta parada, no creas que la adrenalina se ha esfumado, porque aquí se te cortará la respiración solo con ver el horizonte o sentir que estás en una máquina del tiempo. <br> Este lugar es una máquina del tiempo que tiene un corazón que late con fuerza desde 1912, y se alimenta de crear risas, adrenalina y recuerdos que resisten al paso del tiempo. <br> Su respiración es pura inspiración, ya que baña de color todo lo que toca, y con su exhalación salada nos disipa las nubes para contemplar sus impresionantes vistas al mar.',
+            description: '<stronge> Si has volado a esta parada, no creas que la adrenalina se ha esfumado, porque aquí se te cortará la respiración solo con ver el horizonte o sentir que estás en una máquina del tiempo. <br> Este lugar tiene un corazón que late con fuerza desde 1912, y se alimenta de crear risas, emociones y recuerdos que resisten al paso del tiempo. <br> Su respiración es pura inspiración, ya que baña de color todo lo que toca, y con su exhalación salada nos disipa las nubes para contemplar sus impresionantes vistas al mar.',
             location: {
                 center: [-2.0099,43.3213],
                 zoom: 14.00,
@@ -333,7 +333,7 @@ var config = {
             id: 'thirteenth-chapter',
             alignment: 'left',
             hidden: false,
-            title: 'Un parque con alma, historia y vistas que roban el alinento. Estamos ante el Parque de Atracciones del Monte Igueldo',
+            title: 'Un parque con alma, historia y vistas que roban el aliento. Estamos ante el Parque de Atracciones del Monte Igueldo',
             image: 'https://www.monteigueldo.es/upload/secciones-publicas/2016/09/07/9402_grande.jpg',
             description: '<stronge> Desde 1912, conserva sus atracciones, su arquitectura y su legendaria panorámica. <br> Un parque que guarda intacta la emoción de otra época, viva entre las nubes y el mar.',
             location: {
