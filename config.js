@@ -52,7 +52,7 @@ var config = {
             id: 'first-identifier',
             alignment: 'center',
             hidden: false,
-            description: '<stronge> La primera estación de nuestro viaje es un lugar que evoca un aroma de montaña y hierba fresca, con un toque a vida salvaje. <br> A medida que nos adentramos por sus senderos, la fauna salvaje comienza a contarnos historias muy duras de supervivencia frente al tráfico ilegal, el cautiverio y el maltrato. <br> Pero cuando los encontramos en sus escondites, se percibe que es su lugar seguro, donde están cuidados con todo el amor que necesitan para recuperarse y vivir tranquilos. <br> Cuando terminamos la visita, nos inunda el cariño a la vida, el respeto a los animales y las fuerzas de seguir luchando por su bienestar.',
+            description: '<stronge> La primera estación de nuestro viaje es un lugar que evoca un aroma de montaña y hierba fresca, con un toque a vida salvaje. <br> A medida que nos adentramos por sus senderos, la fauna salvaje comienza a contarnos historias muy duras de supervivencia frente al tráfico ilegal, el cautiverio y el maltrato. <br> Pero cuando los encontramos en sus escondites, se percibe que es su lugar seguro, donde están cuidados con todo el amor que necesitan para recuperarse y vivir tranquilos. <br> Cuando terminamos la visita, nos inunda el cariño a la vida, el respeto a los animales y las fuerzas para seguir luchando por su bienestar.',
             location: {
                 center: [ -2.50233, 43.30697 ],
                 zoom: 8.50,
@@ -110,7 +110,7 @@ var config = {
             id: 'third-identifier',
             alignment: 'center',
             hidden: false,
-            description: '<stronge> Tras abrazar la fragilidad de lo salvaje, avanzamos a la siguiente estación, donde el clima nos deja de importar… <br> Nos hallamos bajo techo, uno que huele a calcetines en movimiento, los cuales corren, saltan, y se deslizan por los túneles o por los aires. <br> Nuestro parque es un lugar único, y el más grande del norte de España, que vibra con la energía de todas las edades y el aire se vuelve juguetón. <br> Por ello, conocer gente de la zona no es solo sencillo, sino inevitable, porque aquí basta con jugar para sentirse parte de algo.',
+            description: '<stronge> Tras abrazar la fragilidad de lo salvaje, avanzamos a la siguiente estación, donde el clima nos deja de importar… <br> Nos hallamos bajo techo, uno que huele a calcetines en movimiento, los cuales corren, saltan, y se deslizan por los túneles o por los aires. <br> Nuestro parque es un lugar único, y el más grande del norte de España, que vibra con la energía de todas las edades y donde el aire se vuelve juguetón. <br> Por ello, conocer gente de la zona no es solo sencillo, sino inevitable, porque aquí basta con jugar para sentirse parte de algo.',
             location: {
                 center: [ -2.50233, 43.30697 ],
                 zoom: 8.50,
@@ -158,7 +158,7 @@ var config = {
             id: 'fifth-identifier',
             alignment: 'center',
             hidden: false,
-            description: '<stronge> De tanto jugar, el cuerpo se rinde al cansancio, y los parpados se vuelven pesados, tanto que sentimos que pesan como rocas. <br> Nos dejamos mecer por un mar tranquilo y sereno, cuya sal nos acaricia la piel y las olas nos susurran antiguas historias que solo entienden quienes saben escuchar. <br> Dejándonos llevar hacia…',
+            description: '<stronge> De tanto jugar, el cuerpo se rinde al cansancio, y los párpados se vuelven pesados, tanto que sentimos que pesan como rocas. <br> Nos dejamos mecer por un mar tranquilo y sereno, cuya sal nos acaricia la piel y las olas nos susurran antiguas historias que solo entienden quienes saben escuchar. <br> Dejándonos llevar hacia…',
             location: {
                 center: [ -2.50233, 43.30697 ],
                 zoom: 8.50,
@@ -175,7 +175,7 @@ var config = {
             id: 'sixth-identifier',
             alignment: 'center',
             hidden: false,
-            description: '<stronge> El paraíso de los sueños, navegamos a través del misterio, donde surcamos un bosque con criaturas que, si te las encuentras, te harán deleitarse con su música y su alegría, y te ofrecerán una cata de quesos y txakoli. <br> Pero... No todo es diversión, ya que, si nos topamos con ciertas criaturas, nos lo harán pasar muy mal. Por ello, nos refugiaremos en un antiguo caserío que lleva 515 años en pie, y protege de todo lo malo, permitiéndonos únicamente disfrutar de un viaje interior hacia lo más hondo de la cultura vasca.',
+            description: '<stronge> ...el paraíso de los sueños, navegamos a través del misterio, donde surcamos un bosque con criaturas que, si te las encuentras, te harán deleitarte con su música y su alegría, y te ofrecerán una cata de quesos y txakoli. <br> Pero... No todo es diversión, ya que, si nos topamos con ciertas criaturas, nos lo harán pasar muy mal. Por ello, nos refugiaremos en un antiguo caserío que lleva 515 años en pie, y protege de todo lo malo, permitiéndonos únicamente disfrutar de un viaje interior hacia lo más hondo de la cultura vasca.',
             location: {
                 center: [ -2.50233, 43.30697 ],
                 zoom: 8.50,
@@ -228,9 +228,9 @@ var config = {
             id: 'ninth-chapter',
             alignment: 'right',
             hidden: false,
-            title: 'Pararada imprescindible para aprender amar, bienvenidos a Basondo.',
+            title: 'Parada imprescindible para aprender a amar, bienvenidos a Basondo.',
             image: 'https://turismovasco.com/wp-content/uploads/2025/05/loros-refugio-de-la-naturaleza-en-Urdaibai-basondo.jpg',
-            description: '<stronge> 60.000 m2 donde la vida resurge, es un refugio para fauna silvestre amenazada.',
+            description: '<stronge> Con 60.000 m2 donde la vida resurge, es un refugio para fauna silvestre amenazada.',
             location: {
                 center: [-2.6386,43.3449],
                 zoom: 16.08,
@@ -247,7 +247,7 @@ var config = {
             id: 'tenth-chapter',
             alignment: 'centrer',
             hidden: false,
-            description: '<stronge> Con el corazón lleno y respetuoso, cambiamos de destino a uno en el que podamos gritar de adrenalina y volar como los pájaros. <br> Aquí se requiere gritar, volar y desmelenarse. Si no es apto para ti, vuela a la próxima parada. Pero si decides quedarte conmigo, vamos a jugar en la naturaleza, nuestro auténtico campo de juego. <br> Por un instante, nos convertiremos en pájaros, monos, Tarzanes o Jane, o en cualquier ser que nuestra imaginación nos permita ser. <br> Y por encima de todo, hay que superar cada paso que se da, cada reto, cada circuito. Porque como todo logró en esta vida, merece celebrarse. Todo lo que se supera viene acompañado de un torbellino de emociones, y todo ello dejará una huella imborrable.',
+            description: '<stronge> Con el corazón lleno y respetuoso, cambiamos de destino a uno en el que podamos gritar de adrenalina y volar como los pájaros. <br> Aquí se requiere gritar, volar y desmelenarse. Si no es apto para ti, vuela a la próxima parada. Pero si decides quedarte conmigo, vamos a jugar en la naturaleza, nuestro auténtico campo de juego. <br> Por un instante, nos convertiremos en pájaros, monos, Tarzanes o Janes, o en cualquier ser que nuestra imaginación nos permita ser. <br> Y por encima de todo, hay que superar cada paso que se da, cada reto, cada circuito. Porque como todo logro en esta vida, merece celebrarse. Todo lo que se supera viene acompañado de un torbellino de emociones, y todo ello dejará una huella imborrable.',
             location: {
                 center: [ -2.50233, 43.30697 ],
                 zoom: 8.50,
